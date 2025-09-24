@@ -10,14 +10,15 @@ The projects showcase my transition from **Business Intelligence & Data Science*
 
 ai-llm-portfolio/
 │
-├── ml-fundamentals/ # Regression, Random Forest, XGBoost, CatBoost
-├── deep-learning-nlp/ # RNNs, CNNs, Attention, Sentiment Analysis
-├── transformers/ # Transformer from scratch, BERT fine-tuning
-├── llm-finetuning/ # LoRA fine-tuning (LLaMA, Mistral, Falcon)
-├── mlops/ # CI/CD, Monitoring, Cloud Deployment
-├── workforce-llm-analytics/ # Capstone project – AI Copilot for HR Analytics
+├── ml-fundamentals/          # Regression, Random Forest, XGBoost, CatBoost
+├── deep-learning-nlp/        # RNNs, CNNs, Attention, Sentiment Analysis
+├── transformers/             # Transformer from scratch, BERT fine-tuning
+├── llm-finetuning/           # LoRA fine-tuning (LLaMA, Mistral, Falcon)
+├── mlops/                    # CI/CD, Monitoring, Cloud Deployment
+├── workforce-llm-analytics/  # Capstone project – AI Copilot for HR Analytics
 │
 └── README.md
+
 
 
 
