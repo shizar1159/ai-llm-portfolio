@@ -7,7 +7,7 @@ The projects showcase my transition from **Business Intelligence & Data Science*
 ---
 
 ##Repository Structure
-
+```
 ai-llm-portfolio/
 │
 ├── ml-fundamentals/          # Regression, Random Forest, XGBoost, CatBoost
@@ -18,13 +18,13 @@ ai-llm-portfolio/
 ├── workforce-llm-analytics/  # Capstone project – AI Copilot for HR Analytics
 │
 └── README.md
-
+```
 
 
 
 ---
 
-##Featured Projects
+## Featured Projects
 
 ### 1. **ML Fundamentals – Workforce Analytics**
 - Predict employee tenure using Random Forest, XGBoost, CatBoost.
@@ -52,7 +52,7 @@ ai-llm-portfolio/
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 - **Languages**: Python, R, SQL, C#, .NET  
 - **ML/DL**: Scikit-learn, TensorFlow, PyTorch, HuggingFace  
@@ -62,7 +62,7 @@ ai-llm-portfolio/
 
 ---
 
-##Evaluation Metrics
+## Evaluation Metrics
 
 Key formulas documented across projects:
 
@@ -81,7 +81,7 @@ RMSE, MAE, AUC, Concordance Index.
 
 ---
 
-##Purpose
+## Purpose
 
 This portfolio demonstrates:
 - Transition from **Business Intelligence Analyst** to **AI/LLM Engineer**.  
@@ -91,7 +91,7 @@ This portfolio demonstrates:
 
 ---
 
-##Contact
+## Contact
 
 - **Email**: shizar.zarbafian@gmail.com  
 - **LinkedIn**: [linkedin.com/in/shizarzarbafian](https://www.linkedin.com/in/shizarzarbafian)  
