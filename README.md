@@ -67,14 +67,11 @@ ai-llm-portfolio/
 Key formulas documented across projects:
 
 - **Gradient Descent**  
-\[
-\theta_{t+1} = \theta_t - \eta \cdot \nabla_\theta J(\theta)
-\]
+  `θ_{t+1} = θ_t - η ⋅ ∇θ J(θ)`
 
 - **Attention Mechanism**  
-\[
-\text{Attention}(Q,K,V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
-\]
+  `Attention(Q,K,V) = softmax((QK^T) / sqrt(d_k)) V`
+
 
 - **Error Metrics**  
 RMSE, MAE, AUC, Concordance Index.
